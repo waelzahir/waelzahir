@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=waelzahir)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=waelzahir&style=for-the-badge)
 
 **waelzahir/waelzahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
