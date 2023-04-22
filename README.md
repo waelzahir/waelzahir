@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=waelzahir&color=black)
-<!--
+![](https://komarev.com/ghpvc/?username=waelzahir&style=for-the-badge)
+
 **waelzahir/waelzahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
